@@ -1,0 +1,4 @@
+{
+  "development": ["post-01", "post-02", "post-03", "post-04", "post-05", "post-06", "post-07", "post-08", "post-09", "post-10", "post-11", "post-12", "post-13", "post-14", "post-15", "post-16", "post-17", "post-18", "post-19", "post-20"],
+  "test": ["post-21", "post-22", "post-23", "post-24", "post-25", "post-26", "post-27", "post-28", "post-29", "post-30"]
+}

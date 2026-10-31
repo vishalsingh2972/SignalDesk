@@ -1,0 +1,30 @@
+[
+  {
+    "id": "voicestack-ai",
+    "name": "VoiceStack AI",
+    "fictional": true,
+    "description": "Fictional multilingual Voice AI APIs for speech-enabled applications.",
+    "audience": "Developers building multilingual voice agents and speech applications.",
+    "topics": [
+      { "id": "speech-recognition", "phrases": ["speech recognition", "speech to text", "asr", "transcription"] },
+      { "id": "speech-synthesis", "phrases": ["text to speech", "tts", "speech synthesis"] },
+      { "id": "voice-agents", "phrases": ["voice ai", "voice agent", "voice agents", "voice api", "voice apis"] },
+      { "id": "multilingual-speech", "phrases": ["multilingual speech", "code switching", "language detection", "hindi speech", "tamil speech"] }
+    ],
+    "exclusionPhrases": ["voice acting auditions", "celebrity impersonation"]
+  },
+  {
+    "id": "securestack",
+    "name": "SecureStack",
+    "fictional": true,
+    "description": "Fictional enterprise AI security tooling for application and platform teams.",
+    "audience": "Enterprise developers and security teams protecting AI applications.",
+    "topics": [
+      { "id": "prompt-security", "phrases": ["prompt injection", "jailbreak", "jailbreaks"] },
+      { "id": "data-protection", "phrases": ["data leakage", "pii", "data exfiltration", "sensitive data"] },
+      { "id": "ai-security", "phrases": ["ai security", "llm security", "model security", "llm gateway"] },
+      { "id": "enterprise-controls", "phrases": ["ai governance", "ai audit", "ai compliance", "enterprise ai"] }
+    ],
+    "exclusionPhrases": ["home security cameras", "crypto giveaway"]
+  }
+]
